@@ -1,0 +1,6 @@
+#include "NonConflictLayoutManager.h"
+
+NonConflictLayoutManager::NonConflictLayoutManager()
+{
+
+}
